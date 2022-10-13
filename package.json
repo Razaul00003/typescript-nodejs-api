@@ -1,0 +1,28 @@
+{
+  "name": "typescript-nodejs-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Razaul00003/typescript-nodejs-api.git"
+  },
+  "author": "razaul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Razaul00003/typescript-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/Razaul00003/typescript-nodejs-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.2",
+    "@types/express": "^4.17.14",
+    "@types/node": "^18.8.5"
+  }
+}
